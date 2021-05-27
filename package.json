@@ -1,0 +1,25 @@
+{
+  "name": "Agoda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roongnk/agoda_technical_interview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roongnk/agoda_technical_interview/issues"
+  },
+  "homepage": "https://github.com/Roongnk/agoda_technical_interview#readme"
+}
